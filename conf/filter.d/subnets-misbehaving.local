@@ -1,0 +1,3 @@
+[Definition]
+failregex = Found subnet <HOST>(?P<mask>\/[0-9]{1,2}) from ip
+ignoreregex = 

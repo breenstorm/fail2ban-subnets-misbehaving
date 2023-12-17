@@ -1,0 +1,6 @@
+[Definition]
+actionstart = 
+actionstop = 
+actioncheck = 
+actionban = /usr/bin/fail2ban-subnet-logging <ip>
+actionunban = 
